@@ -1,0 +1,4 @@
+output_clusters/*.obj
+backup
+.idea
+venv
